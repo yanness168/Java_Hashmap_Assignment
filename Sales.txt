@@ -1,0 +1,8 @@
+1005 Abigail Adams 5020 blouse 45 2
+1002 Jiwon Jeong 5010 gloves 24 3
+1003 Melody Yip 5005 hat 47 1
+1001 Eric Chou 5002 jacket 109 1
+1003 Melody Yip 5002 jacket 109 2
+1005 Abigail Adams 5010 gloves 24 6
+1005 Abigail Adams 5020 blouse 45 1
+1002 Jiwon Jeong 5002 jacket 109 3
